@@ -1,0 +1,3 @@
+Mastering TypeScript 2015 (4.2/5)
+Pro TypeScript: Application-Scale JavaScript Development 2014 (4.1/7)
+TypeScript Revealed 2013 (2.5/8)
